@@ -1,0 +1,2 @@
+# hiscore
+hiscore.dat
